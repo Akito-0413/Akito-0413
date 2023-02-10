@@ -37,7 +37,7 @@
 <p>エンジニアの健康維持を目的としたWebアプリケーション開発</p>
 <p>最優秀賞を受賞</p>
 <p>開発プロダクト名：負債くん</p>
-<a>https://husai-kun.web.app/</a><br />
+<p><a>https://husai-kun.web.app/</a></p>
 <p>使用技術</p>
 
 <li>
