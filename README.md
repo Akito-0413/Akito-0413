@@ -65,13 +65,11 @@
   <ul>
     <li>Figma</li>
     <li>Heroku</li>
-    <li>
       <ul>
         Firebase
         <li>Hosting</li>
         <li>Authentication</li>
       </ul>
-    </li>
     <li>GCP Cloud Run</li>
   </ul>
 </li>
