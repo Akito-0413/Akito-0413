@@ -65,7 +65,7 @@
   <ul>
     <li>Figma</li>
     <li>Heroku</li>
-
+    <li>
       <ul>
         Firebase
         <li>Hosting</li>
