@@ -1,2 +1,32 @@
-# Portfolio
-<h1>Hello World</h1>
+<h1>Portfolio</h1>
+<h2>プログラミングスクールにてメンター業務</h2>
+<ol>
+  <li>15名のWebアプリケーション開発のサポート</li>
+  <li>5名のプロトタイプ制作のサポート</li>
+  <li>拠点内での業務自動化を支援</li>
+</ol>
+
+<ul>
+  <li>
+    業務自動化
+    <ul>
+      <li>GAS</li>
+    </ul>
+  </li>
+  <li>
+    Webアプリケーション開発サポート
+    <ul>
+      <li>HTML/CSS</li>
+      <li>JavaScript</li>
+      <li>Ruby on Rails</li>
+      <li>Sass</li>
+      <li>Bootstrap</li>
+    </ul>
+  </li>
+  <li>
+    プロトタイプ制作サポート
+    <ul>
+      <li>Figma</li>
+    </ul>
+  </li>
+</ul>
