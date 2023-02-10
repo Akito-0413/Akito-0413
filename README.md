@@ -36,4 +36,42 @@
 
 <p>エンジニアの健康維持を目的としたWebアプリケーション開発</p>
 <p>最優秀賞を受賞</p>
-<p>開発プロダクト名</p>
+<p>開発プロダクト名：負債くん</p>
+<a>https://husai-kun.web.app/</a><br />
+<p>使用技術</p>
+
+<li>
+  フロントエンド
+  <ul>
+    <li>React</li>
+    <li>TypeScript</li>
+    <li>Material-UI</li>
+    <li>CSS</li>
+  </ul>
+</li>
+
+<li>
+  バックエンド
+  <ul>
+    <li>Laravel</li>
+    <li>PHP</li>
+    <li>Go</li>
+    <li>MySQL</li>
+  </ul>
+</li>
+
+<li>
+  その他
+  <ul>
+    <li>Figma</li>
+    <li>Heroku</li>
+
+      <ul>
+        Firebase
+        <li>Hosting</li>
+        <li>Authentication</li>
+      </ul>
+    </li>
+    <li>GCP Cloud Run</li>
+  </ul>
+</li>
