@@ -105,8 +105,6 @@
   <li>MySQL</li>
 </ol>
 
-<h3>デジタルガレージ</h3>
-
 <h2>趣味</h2>
 <h3>個人開発</h3>
 
@@ -114,7 +112,7 @@
 <p>
   2022.1月末~2月初旬<br />
   自己紹介サイト<br />
-  <a>https://husai-kun.web.app</a><br />
+  <a>https://akito-yamauchi-0413.github.io/my-portfolio/</a><br />
 </p>
 
 <p>使用技術</p>
