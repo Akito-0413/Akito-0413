@@ -49,7 +49,7 @@
   2022.8.1~8.5<br />
   エンジニアの健康維持を目的としたWebアプリケーションの開発<br />
   最優秀賞を受賞<br />
-  <a href= "https://developers.gmo.jp/25240/" target="_blank" ></a><br/>
+  <a href= "https://developers.gmo.jp/25240/" target="_blank" >https://developers.gmo.jp/25240/</a><br/>
   開発プロダクト名：負債くん<br />
   <a>https://husai-kun.web.app</a><br />
 </p>
