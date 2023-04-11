@@ -1,4 +1,4 @@
- <p>Fukuoka University student/Web Application Engineer/Marketer</p>
+ Fukuoka University student/Web Application Engineer/Marketer
  
  ## My Portfolio
  
