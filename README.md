@@ -1,7 +1,7 @@
 <h1>My Portfolio</h1>
 
 <p>
-  <p>Fukuoka University student/Web Application Engineer/Marketer</p>
+  <p><strong>Fukuoka University student/Web Application Engineer/Marketer</strong></p>
   工学部電子情報工学科所属の4年生（専攻：ナノエレクトロニクス工学）<br />
   研究室では集積回路・半導体の設計・開発をメインに研究<br/>
   学外では東京に本社をかまえるIT企業2社と契約を結び<br/>
