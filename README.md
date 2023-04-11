@@ -20,7 +20,7 @@
   <li>
     業務自動化
     <ul>
-      <li>GAS</li>
+      <li>Google Apps Script</li>
     </ul>
   </li>
   <li>
