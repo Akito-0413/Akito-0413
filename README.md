@@ -1,4 +1,4 @@
- Fukuoka University student/Web Application Engineer/Marketer
+ Fukuoka University student / Web Application Engineer / Marketer
  
  ## My Portfolio
  
