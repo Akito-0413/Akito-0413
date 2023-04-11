@@ -79,7 +79,7 @@
 
 <ul>
   <li>
-    その他
+    Others
     <ul>
       <li>Figma</li>
       <li>Heroku</li>
