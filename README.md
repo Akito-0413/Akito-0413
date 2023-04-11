@@ -1,6 +1,8 @@
- <p><strong>Fukuoka University student/Web Application Engineer/Marketer</strong></p>
+ <p>Fukuoka University student/Web Application Engineer/Marketer</p>
  
-<h1>My Portfolio</h1>
+ #My Portfolio
+ 
+
 
 <p>
   工学部電子情報工学科所属の4年生（専攻：ナノエレクトロニクス工学）<br />
