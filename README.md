@@ -5,7 +5,8 @@
  # My Portfolio
 
   工学部電子情報工学科所属の4年生（専攻：ナノエレクトロニクス工学）<br>
-  研究室にて集積回路・半導体の設計・開発をメインに研究<br>
+  研究室で集積回路・半導体の設計・開発をメインに研究<br>
+  Qiita：https://qiita.com/Akito_bsk
 
 ### Skills
   - JavaScript,TypeScript
