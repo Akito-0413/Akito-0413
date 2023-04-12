@@ -48,9 +48,9 @@
 ### GMOインターネットグループ株式会社
   2022.8.1~8.5
   エンジニアの健康維持を目的としたWebアプリケーションの開発<br>
-  最優秀賞を受賞
-  https://developers.gmo.jp/25240/
-  開発プロダクト名：負債くん
+  最優秀賞を受賞<br>
+  https://developers.gmo.jp/25240/<br>
+  開発プロダクト名：負債くん<br>
   https://husai-kun.web.app
 
 
