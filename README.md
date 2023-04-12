@@ -47,14 +47,14 @@
 ## ハッカソン・開発インターン参加実績
 ### GMOインターネットグループ株式会社
 
-<p>
-  2022.8.1~8.5<br />
-  エンジニアの健康維持を目的としたWebアプリケーションの開発<br />
-  最優秀賞を受賞<br />
-  <a href= "https://developers.gmo.jp/25240/" target="_blank" >https://developers.gmo.jp/25240/</a><br/>
-  開発プロダクト名：負債くん<br />
-  <a>https://husai-kun.web.app</a><br />
-</p>
+
+  2022.8.1~8.5
+  エンジニアの健康維持を目的としたWebアプリケーションの開発
+  最優秀賞を受賞
+  https://developers.gmo.jp/25240/
+  開発プロダクト名：負債くん
+  https://husai-kun.web.app
+
 
 <p>使用技術</p>
 <ul>
