@@ -28,43 +28,27 @@
   以下の業務に従事<br>
   
   - 技術提供
+    - 約15名ほどのWebアプリケーション開発の支援
+    - 8名のプロトタイプ制作の支援 
   - マーケティング
     - 大学生に向けての個人営業・リファラル活動
     - 就活イベントの登壇
     - 戦略・施策の策定、分析
   - メンターの育成・採用のHR業務
-   学生
-2
- 5名のプロトタイプ制作のサポート
- 拠点内での業務自動化を支援
- メンターの採用・育成業務
 
+使用技術<br>
 
-<ul>
-  <li>
-    業務自動化
-    <ul>
-      <li>Google Apps Script</li>
-    </ul>
-  </li>
-  <li>
-    Webアプリケーション開発サポート
-    <ul>
-      <li>HTML/CSS</li>
-      <li>JavaScript</li>
-      <li>Ruby on Rails</li>
-      <li>Sass</li>
-      <li>Bootstrap</li>
-    </ul>
-  </li>
-  <li>
-    プロトタイプ制作サポート
-    <ul>
-      <li>Figma</li>
-    </ul>
-  </li>
-</ul>
-
+  - 業務自動化
+     - Google Apps Script
+  - Webアプリケーション開発支援
+     - HTML/CSS
+     - JavaScript
+     - Ruby on Rails
+     - Sass
+     - Bootstrap
+   - プロトタイプ制作サポート
+     - Figma
+   
 ## Achievement
 ### GMO Internet Group
   2022.8.1~8.5
