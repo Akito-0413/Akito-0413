@@ -110,7 +110,7 @@ https://geek-salon.com/
   </li>
 </ul>
 
-### Bennese Holdings
+### Benese Holdings
 https://www.benesse.co.jp/<br>
 <p>
   2022.8.10~8.12<br />
