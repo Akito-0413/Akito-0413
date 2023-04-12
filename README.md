@@ -49,7 +49,7 @@
      - Sass
      - Bootstrap
    - プロトタイプ制作支援
-     - Figma
+     - Figma<br>
 https://geek-salon.com/
 <img width="1440" alt="スクリーンショット 2022-07-27 19 52 49（2）" src="https://user-images.githubusercontent.com/97037214/231416944-e8c7b244-0c20-4960-9a08-417a1dbe4459.png">
 
@@ -118,51 +118,4 @@ https://geek-salon.com/
   <li>HTML/CSS</li>
   <li>Bootstrap</li>
   <li>MySQL</li>
-</ol>
-
-<h2>趣味</h2>
-<h3>個人開発</h3>
-
-<h4>My Portfolio</h4>
-<p>
-  2022.1月末~2月初旬<br />
-  自己紹介サイト<br />
-  <a>https://akito-yamauchi-0413.github.io/my-portfolio/</a><br />
-</p>
-
-<p>使用技術</p>
-<ol>
-  <li>Node.js</li>
-  <li>HTML/CSS</li>
-  <li>JavaScript</li>
-  <li>Bootstrap</li>
-</ol>
-
-<h4>ToDoアプリ</h4>
-<p>
-  2022.7月中旬<br />
-  todoタスクをこなすWebアプリケーション<br />
-  Vue.jsの理解を深めるために制作
-</p>
-
-<p>使用技術</p>
-<ol>
-  <li>Vue.js</li>
-  <li>JavaScript</li>
-  <li>Firebase</li>
-</ol>
-
-<h3>チーム開発</h3>
-<h4>おれらのファインダス</h4>
-<p>
-  2022.3<br />
-  各大学のサークルの情報を登録し、イベント集客など様々な機能を備えるアプリケーション<br />
-  1ヶ月ほどで制作
-</p>
-
-<p>使用技術</p>
-<ol>
-  <li>Vue.js</li>
-  <li>JavaScript</li>
-  <li>Firebase</li>
 </ol>
