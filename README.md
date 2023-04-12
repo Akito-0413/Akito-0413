@@ -1,14 +1,16 @@
  Fukuoka University student / Web Application Engineer / Marketer
  
  # My Portfolio
- 
 
   工学部電子情報工学科所属の4年生（専攻：ナノエレクトロニクス工学）<br>
-  研究室では集積回路・半導体の設計・開発をメインに研究<br>
-  学外では東京に本社をかまえるIT企業2社と契約を結び<br>
-  それぞれWebマーケティングとWebアプリケーション開発の業務に従事しながら<br>
-  プログラミングスクールでの技術の指導や人材の採用育成、就活イベントの登壇や営業の業務もおこなっている
+  研究室にて集積回路・半導体の設計・開発をメインに研究<br>
 
+### Skills
+  - JavaScript,TypeScript,
+  - Ruby on Rails,Node.js,Vue.js,React
+  - MySQL,Firebase
+  - GitHub,Figma,LTSpice
+ 
 ## Engineer
   2023.3~<br>
   株式会社ライトマークスにフロントエンドエンジニアとしてjoin<br>
@@ -46,7 +48,7 @@
      - Ruby on Rails
      - Sass
      - Bootstrap
-   - プロトタイプ制作サポート
+   - プロトタイプ制作支援
      - Figma
    
 ## Achievement
