@@ -1,4 +1,6 @@
- Fukuoka University student / Web Application Engineer / Marketer
+ Fukuoka University student<br>
+ Web Application Engineer <br>
+ Marketer
  
  # My Portfolio
 
@@ -6,7 +8,7 @@
   研究室にて集積回路・半導体の設計・開発をメインに研究<br>
 
 ### Skills
-  - JavaScript,TypeScript,
+  - JavaScript,TypeScript
   - Ruby on Rails,Node.js,Vue.js,React
   - MySQL,Firebase
   - GitHub,Figma,LTSpice
