@@ -57,7 +57,8 @@ https://geek-salon.com/
    
 ## Achievement
 ### GMO Internet Group
-  2022.8.1~8.5
+  https://www.gmo.jp/<br><br>
+  2022.8.1~8.5<br>
   エンジニアの健康維持を目的としたWebアプリケーションの開発<br>
   最優秀賞を受賞<br>
   https://developers.gmo.jp/25240/<br>
@@ -107,6 +108,7 @@ https://geek-salon.com/
 </ul>
 
 ### Bennese Holdings
+https://www.benesse.co.jp/<br>
 <p>
   2022.8.10~8.12<br />
   投資をおこなう大学生を支援するためのWebアプリケーションの開発<br />
