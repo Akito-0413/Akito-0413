@@ -49,7 +49,8 @@
      - Sass
      - Bootstrap
    - プロトタイプ制作支援
-     - Figma<br>
+     - Figma
+<br>
 https://geek-salon.com/
 <img width="1440" alt="スクリーンショット 2022-07-27 19 52 49（2）" src="https://user-images.githubusercontent.com/97037214/231416944-e8c7b244-0c20-4960-9a08-417a1dbe4459.png">
 
