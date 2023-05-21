@@ -1,4 +1,4 @@
- Fukuoka University student<br>
+ University student<br>
  Web Application Engineer <br>
  Marketer
  
