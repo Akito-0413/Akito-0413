@@ -117,7 +117,7 @@ https://www.benesse.co.jp/<br>
   2022.8.10~8.12<br />
   投資をおこなう大学生を支援するためのWebアプリケーションの開発<br />
   開発プロダクト名：投資学習コミュニティ<br>
-  https://github.com/Akito-Yamauchi-0413/fin-study-col
+  https://github.com/Akito-0413/fin-study-col
 </p>
 
 <p>使用技術</p>
