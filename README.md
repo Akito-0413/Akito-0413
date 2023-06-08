@@ -27,8 +27,7 @@
   主に企業向けにDMやホワイトペーパーなどのデザイン制作に従事<br>
   https://corp.supporterz.jp/<br>
   
-  使用技術
-   - Figma
+  使用技術：Figma
 
 ## Mentor
   2021.4~2023.4<br>
