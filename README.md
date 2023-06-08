@@ -23,9 +23,12 @@
   
 ## Marketer
   2023.4~<br>
-  株式会社CARTA HOLDINGSにマーケターとしてjoin<br>
-  toB向けに社内で様々なマーケティング業務に従事<br>
-  https://cartaholdings.co.jp/
+  株式会社サポーターズにマーケターとしてjoin<br>
+  主に企業向けにDMやホワイトペーパーなどのデザイン制作に従事<br>
+  https://corp.supporterz.jp/<br>
+  
+  使用技術
+   - Figma
 
 ## Mentor
   2021.4~2023.4<br>
