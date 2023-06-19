@@ -13,7 +13,7 @@
   - JavaScript,TypeScript
   - Ruby on Rails,Vue.js,Next.js
   - MySQL,Firebase
-  - GitHub,Figma,LTSpice
+  - GitHub,Figma,LTSpice,Salesforce
  
 ## Engineer
   2023.3~<br>
