@@ -11,7 +11,7 @@
 
 ### Skills
   - JavaScript,TypeScript
-  - Ruby on Rails,Node.js,Vue.js,React
+  - Ruby on Rails,Vue.js,Next.js
   - MySQL,Firebase
   - GitHub,Figma,LTSpice
  
