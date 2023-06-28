@@ -22,7 +22,7 @@
   https://lightmarks.co.jp/
   
 ## Marketer
-  2023.4.1~6.30~<br>
+  2023.4.1~6.30<br>
   株式会社サポーターズにマーケターとしてjoin<br>
   主に企業向けにDMやホワイトペーパーなどのデザイン制作に従事<br>
   https://corp.supporterz.jp/<br>
