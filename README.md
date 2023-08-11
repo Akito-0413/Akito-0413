@@ -106,11 +106,10 @@ https://geek-salon.com/
   </li>
 </ul>
 
-### Benesse Holdings
-https://www.benesse.co.jp/<br>
+### 技育展2023
 <p>
-  2022.8.10~8.12<br />
-  投資をおこなう大学生を支援するためのWebアプリケーションの開発<br />
+  2023.8.11<br />
+  投資をおこなう人を支援するためのWebアプリケーションの開発<br />
   開発プロダクト名：投資学習コミュニティ<br>
   https://finstudy.fly.dev/
 </p>
