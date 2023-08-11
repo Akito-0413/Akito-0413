@@ -14,12 +14,6 @@
   - Ruby on Rails,Vue.js,Next.js
   - MySQL,Firebase
   - GitHub,Figma,LTSpice,Salesforce
- 
-## Engineer
-  2023.3~<br>
-  株式会社ライトマークスにフロントエンドエンジニアとしてjoin<br>
-  主に自社プロダクトの開発とテストの業務に従事<br>
-  https://lightmarks.co.jp/
   
 ## Marketer
   2023.4.1~6.30<br>
