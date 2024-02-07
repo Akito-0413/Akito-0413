@@ -1,59 +1,10 @@
- University Student<br>
- Web Application Engineer <br>
- Marketer
- 
- # My Portfolio
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Akito-0413&theme=jolly" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akito-0413&layout=compact&langs_count=8&card_width=320&theme=jolly" />
+</a>
 
-  工学部電子情報工学科所属の4年生（専攻：ナノエレクトロニクス工学）<br>
-  研究室で集積回路・半導体の設計・開発をメインに活動<br>
-  研究テーマ：Quantum ESPRESSOを用いた第一原理計算<br>
-  Qiita：https://qiita.com/Akito_bsk
-
-### Skills
-  - JavaScript,TypeScript
-  - Ruby on Rails,Vue.js,Next.js
-  - MySQL,Firebase
-  - GitHub,Figma,LTSpice,Salesforce
-  
-## Marketer
-  2023.4.1~6.30<br>
-  株式会社サポーターズにマーケターとしてjoin<br>
-  主に企業向けにDMやホワイトペーパーなどのデザイン制作に従事<br>
-  https://corp.supporterz.jp/<br>
-  
-  使用技術：Figma
-
-## Mentor
-  2021.6~2023.4<br>
-  GeekSalonにメンターとしてjoin<br>
-  全国の大学生にITスキルを通した価値提供の活動<br>
-  以下の業務に従事<br>
-  
-  - 技術提供
-    - 20名のWebアプリケーション開発の支援
-    - 8名のプロトタイプ制作の支援 
-  - マーケティング
-    - 大学生に向けての個人営業・リファラル活動
-    - 就活イベントの登壇
-    - 戦略・施策の策定、分析
-  - メンターの育成・採用のHR業務
-
-使用技術<br>
-
-  - 業務自動化
-     - Google Apps Script
-  - Webアプリケーション開発支援
-     - HTML/CSS
-     - JavaScript
-     - Ruby on Rails
-     - Sass
-     - Bootstrap
-   - プロトタイプ制作支援
-     - Figma
-<br>
-https://geek-salon.com/
-
-   
 ## Achievement
 ### GMO Internet Group
   https://www.gmo.jp/<br><br>
