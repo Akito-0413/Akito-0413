@@ -58,6 +58,7 @@
 </ul>
 
 ### 技育展2023
+https://talent.supporterz.jp/geekten/2023/<br>
 <p>
   2023.8.11<br />
   投資をおこなう人を支援するためのWebアプリケーションの開発<br />
