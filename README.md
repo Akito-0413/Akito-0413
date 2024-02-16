@@ -66,9 +66,9 @@ https://talent.supporterz.jp/geekten/2023/<br>
 </p>
 
 <p>使用技術</p>
-<ol>
+<ul>
   <li>Ruby on Rails</li>
   <li>HTML/CSS</li>
   <li>Bootstrap</li>
   <li>MySQL</li>
-</ol>
+</ul>
