@@ -15,7 +15,6 @@
   開発プロダクト名：負債くん<br>
   https://husai-kun.web.app
 
-
 <p>使用技術</p>
 <ul>
   <li>
