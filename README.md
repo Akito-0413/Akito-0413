@@ -72,3 +72,33 @@ https://talent.supporterz.jp/geekten/2023/<br>
   <li>Bootstrap</li>
   <li>MySQL</li>
 </ul>
+
+### Mentor
+  2021.6~2023.4<br>
+  GeekSalonにメンターとしてjoin<br>
+  全国の大学生にITスキルを通した価値提供の活動<br>
+  以下の業務に従事<br>
+
+  - 技術提供
+    - 20名のWebアプリケーション開発の支援
+    - 8名のプロトタイプ制作の支援 
+  - マーケティング
+    - 大学生に向けての個人営業・リファラル活動
+    - 就活イベントの登壇
+    - 戦略・施策の策定、分析
+  - メンターの育成・採用のHR業務
+
+使用技術<br>
+
+  - 業務自動化
+     - Google Apps Script
+  - Webアプリケーション開発支援
+     - HTML/CSS
+     - JavaScript
+     - Ruby on Rails
+     - Sass
+     - Bootstrap
+   - プロトタイプ制作支援
+     - Figma
+<br>
+https://geek-salon.com/
