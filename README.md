@@ -5,8 +5,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akito-0413&layout=compact&langs_count=8&card_width=320&theme=jolly" />
 </a>
 
-## Achievement
-### GMO Internet Group
+# Achievement
+## GMO Internet Group
   https://www.gmo.jp/<br><br>
   2022.8.1~8.5<br>
   エンジニアの健康維持を目的としたWebアプリケーションの開発<br>
@@ -56,7 +56,7 @@
   </li>
 </ul>
 
-### 技育展2023
+## 技育展2023
 https://talent.supporterz.jp/geekten/2023/<br>
 <p>
   2023.8.11<br />
@@ -73,7 +73,7 @@ https://talent.supporterz.jp/geekten/2023/<br>
   <li>MySQL</li>
 </ul>
 
-### Mentor
+## Mentor
   2021.6~2023.4<br>
   GeekSalonにメンターとしてjoin<br>
   全国の大学生にITスキルを通した価値提供の活動<br>
